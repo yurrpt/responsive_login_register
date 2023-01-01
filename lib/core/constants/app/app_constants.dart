@@ -1,0 +1,30 @@
+class AppConstants {
+  static const fontFamily = 'Quicksand';
+  static var confirmPassword = 'Confirm Password';
+  static var labelText2 = "Your Password, at least 8 character";
+  static var data = 'Register';
+  static const labelText3 = "Re-type your password";
+  static const message = "Password is empty";
+  static const message2 = "Password is invalid";
+  static const message3 = "Phone is empty";
+  static const labelText4 = "Your phone number, e.g : +90 541 xxx xx xx";
+  static const data2 = 'Phone Number';
+  static const message4 = "Email is invalid";
+  static const message5 = "Email is empty";
+  static const labelText5 = "Your Name, e.g : johndoe@gmail.com";
+  static const data3 = "Email";
+  static const message6 = "Name is empty";
+  static const labelText6 = "Your Name, e.g : John Doe";
+  static const data4 = "Name";
+  static const data5 = 'Register';
+  static const data6 = "Password";
+  static const data7 = "Password not correct";
+  static const orLogin = "Or login with";
+  static const here = 'here';
+  static const dontHaveAcc = "Don't have account yet? Register ";
+  static const enterPass = "Enter your password";
+  static const lgn = 'Login';
+  static const frgtPass = 'Forgot password?';
+  static const stayLoggedIn = 'Stay logged in? ';
+  static const enterYourEmail = "Enter your email";
+}
